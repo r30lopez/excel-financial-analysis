@@ -9,3 +9,6 @@ Two Worksheets Contained in this workbook:
 - Financial Analysis
 - Buget Planning
 - Data Visualization
+
+https://profile.indeed.com/
+https://www.kaggle.com/r30lopez
